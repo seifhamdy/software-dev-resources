@@ -53,6 +53,8 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [Page Flows - User flow design inspiration](https://pageflows.com/)
 * [Page Collective - Landing page design inspiration](https://pagecollective.com/)
 * [Nicepage - Free website builder](https://nicepage.com/)
+* [Webflow - Website builder](https://webflow.com/)
+* [Wized - Build apps on top of Webflow](https://www.wized.com/)
 
 ### HTML CSS elements and design resources
 
@@ -60,10 +62,19 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [Metatags - preview how your webpage will look on Google, Facebook, Twitter, etc](metatags.io)
 * [Realtime Colors - Visualize a color pallette on a website](https://realtimecolors.com/)
 * [uiverse - Custom CSS buttons, inputs, etc.](https://uiverse.io/)
-* [Freefronend - Custom CSS elements](https://freefrontend.com/)
+* [Freefrontend - Custom CSS elements](https://freefrontend.com/)
 * [CSSScan - CSS elements by industry experts](https://getcssscan.com/)
+* [CSS.GG - CSS icons](https://css.gg/)
+* [Basicons - Basic CSS icons](https://basicons.xyz/)
+* [Icon Park - Colorful icons](https://iconpark.oceanengine.com/home)
+* [Ming Cute - Simple icons](https://www.mingcute.com/)
+* [Feather Icons - Simple icons](https://feathericons.com/)
+* [Phosphor Icons - Simple icons](https://phosphoricons.com/)
+* [Hero Icons - Icons by the creators of Tailwind](https://heroicons.com/)
 * [SmolCSS - Minimal snippets for modern CSS](https://smolcss.dev/)
 * [CSS shadow generator](https://neumorphism.io/)
+* [Fontpair - Font combinations that work well together](https://www.fontpair.co/)
+* [Haikei - Blobs, waves, gradients, shapes, etc](https://app.haikei.app/)
 * [Openpeeps - Hand-drawn illustrations of people](https://openpeeps.com/)
 * [Hype4 academy - Claymorphism, neumorphism, and glassmorphism generators](https://hype4.academy/tools)
 * [Splide - Lightweight carousels](https://splidejs.com/)
@@ -78,6 +89,8 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [Extract CSS from HTML](http://extractcss.com/)
 * [bradtraversy's design resources repo](https://github.com/bradtraversy/design-resources-for-developers)
 * [dexteryy's spellbook of modern webdev repo](https://github.com/dexteryy/spellbook-of-modern-webdev)
+* [Omatsuri.app - Several useful tools for CSS](https://omatsuri.app/)
+* [Gradient.style - Generate HD CSS gradients](https://gradient.style/)
 
 ### APIs
 
@@ -108,6 +121,12 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [gothinkster's realworld repo](https://github.com/gothinkster/realworld)
 * [yangshun's frontend interview handbook repo](https://github.com/yangshun/front-end-interview-handbook)
 * [cheatsheet1999's FrontEndCollection repo](https://github.com/cheatsheet1999/FrontEndCollection)
+
+### Cloud
+
+* [The Coding Resume Challenge - Learn AWS/Azure/GCP through challenges](https://cloudresumechallenge.dev/)
+* [Azure Pet Store Learning guides - Azure guides](https://chtrembl.github.io/azure-cloud/petstore/)
+* [Azure-Samples' contoso real estate repo](https://github.com/Azure-Samples/contoso-real-estate)
   
 ### Coding games
 
@@ -145,6 +164,7 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [AIColor - AI color pallete generator](https://aicolors.co/)
 * [Brandmark - AI logo design tool](https://brandmark.io/)
 * [Huggingface - Various ML resources](https://huggingface.co/)
+* [Framer - Generate app designs](https://www.framer.com/)
 
 ---
 
@@ -158,6 +178,7 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [Unminify - Prettify code](https://unminify.com/)
 * [ripiennaar's free for dev repo](https://github.com/ripienaar/free-for-dev)
 * [Nhost - Open-source Firebase alternative with GraphQL](https://nhost.io/)
+* [NeetCode - Leetcode problems grouped by data structure](https://neetcode.io/)
 
 ---
 
