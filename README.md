@@ -24,6 +24,9 @@ I made this repo as a place to save and easily find all of the useful resources 
         <li><a href="#3d-and-animation">3d and animation</a></li>
       </ul>
       <ul>
+        <li><a href="#inspiration-and-previews">Inspiration and previews</a></li>
+      </ul>
+      <ul>
         <li><a href="#other-resources">Other resources</a></li>
       </ul>
       <ul>
