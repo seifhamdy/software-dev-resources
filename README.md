@@ -15,7 +15,16 @@ I made this repo as a place to save and easily find all of the useful resources 
         <li><a href="#templates-and-website-builders">Templates and website builders</a></li>
       </ul>
       <ul>
-        <li><a href="#html-css-elements-and-design-resources">HTML CSS elements and design resources</a></li>
+        <li><a href="#html-css-elements">HTML CSS elements and design resources</a></li>
+      </ul>
+      <ul>
+        <li><a href="#icons">Icons</a></li>
+      </ul>
+      <ul>
+        <li><a href="#3d-and-animation">3d and animation</a></li>
+      </ul>
+      <ul>
+        <li><a href="#other-resources">Other resources</a></li>
       </ul>
       <ul>
         <li><a href="#apis">APIs</a></li>
@@ -56,14 +65,25 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [Webflow - Website builder](https://webflow.com/)
 * [Wized - Build apps on top of Webflow](https://www.wized.com/)
 
-### HTML CSS elements and design resources
-
-* [Responsively - modified web browser to help in responsive web development](https://responsively.app/)
-* [Metatags - preview how your webpage will look on Google, Facebook, Twitter, etc](metatags.io)
-* [Realtime Colors - Visualize a color pallette on a website](https://realtimecolors.com/)
+### HTML CSS elements
 * [uiverse - Custom CSS buttons, inputs, etc.](https://uiverse.io/)
 * [Freefrontend - Custom CSS elements](https://freefrontend.com/)
 * [CSSScan - CSS elements by industry experts](https://getcssscan.com/)
+* [SmolCSS - Minimal snippets for modern CSS](https://smolcss.dev/)
+* [CSS shadow generator](https://neumorphism.io/)
+* [Haikei - Blobs, waves, gradients, shapes, etc](https://app.haikei.app/)
+* [Omatsuri.app - Several useful tools for CSS](https://omatsuri.app/)
+* [Simple CSS gradient generator](https://cssgradient.io/)
+* [Gradient.style - Generate HD CSS gradients](https://gradient.style/)
+* [Shapedivider - Custom shape dividers](https://www.shapedivider.app/)
+* [SVG shape dividers tool](https://shapedividers.com/)
+* [CSS grid generator](https://cssgrid-generator.netlify.app/)
+* [Bennett Feely - Several useful CSS tools](https://bennettfeely.com/)
+* [Extract CSS from HTML](http://extractcss.com/)
+* [Hype4 academy - Claymorphism, neumorphism, and glassmorphism generators](https://hype4.academy/tools)
+* [hackerthemes Bootstrap cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+
+### Icons
 * [CSS.GG - CSS icons](https://css.gg/)
 * [Basicons - Basic CSS icons](https://basicons.xyz/)
 * [Icon Park - Colorful icons](https://iconpark.oceanengine.com/home)
@@ -71,26 +91,41 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [Feather Icons - Simple icons](https://feathericons.com/)
 * [Phosphor Icons - Simple icons](https://phosphoricons.com/)
 * [Hero Icons - Icons by the creators of Tailwind](https://heroicons.com/)
-* [SmolCSS - Minimal snippets for modern CSS](https://smolcss.dev/)
-* [CSS shadow generator](https://neumorphism.io/)
-* [Fontpair - Font combinations that work well together](https://www.fontpair.co/)
-* [Haikei - Blobs, waves, gradients, shapes, etc](https://app.haikei.app/)
-* [Openpeeps - Hand-drawn illustrations of people](https://openpeeps.com/)
-* [Hype4 academy - Claymorphism, neumorphism, and glassmorphism generators](https://hype4.academy/tools)
-* [Splide - Lightweight carousels](https://splidejs.com/)
+* [Nucleoapp - Icon library](https://hackerthemes.com/bootstrap-cheatsheet/)
+* [Iconsax - Icon library](https://iconsax.io/)
+
+### 3D and animation
+* [Animista - CSS animation generator](https://animista.net/)
 * [Spline - 3D design tool](https://spline.design/)
-* [Randoma11y - Random accessible color combos](https://randoma11y.com/)
-* [Artboard Studio - Graphic design and animation tool](https://artboard.studio/)
-* [Animatedbackgrounds - Free animated backgrounds](https://animatedbackgrounds.me/)
 * [SVGator - SVG animation platform](https://www.svgator.com/)
 * [Lottiefiles - Lightweight animations for websites and apps](https://lottiefiles.com/)
-* [Shapedivider - Custom shape dividers](https://www.shapedivider.app/)
-* [SVG shape dividers tool](https://shapedividers.com/)
-* [Extract CSS from HTML](http://extractcss.com/)
+* [Animatedbackgrounds - Free animated backgrounds](https://animatedbackgrounds.me/)
+* [Artboard Studio - Graphic design and animation tool](https://artboard.studio/)
+
+### Inspiration and previews
+* [Metatags - preview how your webpage will look on Google, Facebook, Twitter, etc](metatags.io)
+* [Realtime Colors - Visualize a color pallette on a website](https://realtimecolors.com/)
+* [Fontpair - Font combinations that work well together](https://www.fontpair.co/)
+* [Randoma11y - Random accessible color combos](https://randoma11y.com/)
+* [Codrops - Inspiration and tutorials](https://tympanus.net/codrops/)
+* [Mobbin - Inspiration for mobile apps](https://mobbin.com/)
+* [UIGarage - UI inspiration](https://uigarage.net/)
+* [UIStore - UI kits](https://www.uistore.design/)
+
+### Other resources
+
+* [Responsively - modified web browser to help in responsive web development](https://responsively.app/)
+* [Openpeeps - Hand-drawn illustrations of people](https://openpeeps.com/)
+* [Splide - Lightweight carousels](https://splidejs.com/)
+* [ui8 - UI design resources](https://ui8.net/)
+* [SVG shapes](https://shapes.framer.website/)
+* [Free SVG scribbles](https://illustrations.run/)
+* [Graphy - Interactive charts for your website](https://graphy.app/)
+* [Freedesignresources](https://freedesignresources.net/)
+* [365webresources - Web and graphic design resources](https://365webresources.com/)
+* [The Stocks - Hundreds of resources and tools](https://thestocks.im/)
 * [bradtraversy's design resources repo](https://github.com/bradtraversy/design-resources-for-developers)
 * [dexteryy's spellbook of modern webdev repo](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* [Omatsuri.app - Several useful tools for CSS](https://omatsuri.app/)
-* [Gradient.style - Generate HD CSS gradients](https://gradient.style/)
 
 ### APIs
 
