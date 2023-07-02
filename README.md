@@ -96,6 +96,7 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [Hero Icons - Icons by the creators of Tailwind](https://heroicons.com/)
 * [Nucleoapp - Icon library](https://hackerthemes.com/bootstrap-cheatsheet/)
 * [Iconsax - Icon library](https://iconsax.io/)
+* [Icons9 - Icon Library](https://icons8.com/)
 
 ### 3D and animation
 * [Animista - CSS animation generator](https://animista.net/)
@@ -114,6 +115,7 @@ I made this repo as a place to save and easily find all of the useful resources 
 * [Mobbin - Inspiration for mobile apps](https://mobbin.com/)
 * [UIGarage - UI inspiration](https://uigarage.net/)
 * [UIStore - UI kits](https://www.uistore.design/)
+* [Dribbble - Design inspiration](https://dribbble.com/)
 
 ### Other resources
 
